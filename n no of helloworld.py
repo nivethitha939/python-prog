@@ -1,3 +1,4 @@
-a=int(input("enter the no:"))
+a=1
 while (a<=5):
-  print ("Hello World")
+    a=a+1
+    print ("Hello World")
