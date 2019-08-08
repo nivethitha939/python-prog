@@ -1,7 +1,7 @@
-a=eval(input(""))
-if a>0:
+r=eval(input(""))
+if r>0:
     print("positive")
-elif a<0:
+elif r<0:
      print("negative")
 else:
         print("zero")
